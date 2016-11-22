@@ -26,7 +26,7 @@ The container expects the following environment variables to be passed in:
 
 
 ## Note
-Kafka has version issue. You cannot use newer version to mirror older version. 
+Kafka mirror has version issue. You cannot use newer version to mirror older version. 
 
 e.g. Use kafka\_0.10.0.1 to mirror kafka\_0.9.0.0 would have problem mirroring.
 
